@@ -1,0 +1,13 @@
+.input, body{
+    display: flex;
+    flex-direction: row;
+    
+}
+.input{
+    flex-direction: column;
+    width: 150px;
+}
+body > div{
+    margin:20px;
+    
+}
